@@ -14,8 +14,18 @@
 */
 
 /* Table Styles */
+table{
+   width: 100%;
+   border: outset 15px rgb(151,151,151);
+   font-family: arial, Verdana, sans-serif;
+}
 
 
+th td{
+  border: 1px solid gray; 
+  padding: 5px;
+  vertical-align: top;
+}
 
 /* Table Caption Styles */
 
