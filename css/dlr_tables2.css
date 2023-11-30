@@ -55,19 +55,20 @@ col.wEndColumns{
 
 /* Table Header Styles */
 
-thead{
+table.programs thead{
    color: white;
    background-color: rgb(105,177,60);
-   :first-of-type{
+}
+
+table.programs thead th:first-of-type{
       background-color: rgb(153,86,7);
    }
-   :nth-of-type(7){
+   table.programs thead th:nth-of-type(7){
       background-color: rgb(153,0,153);
    }
-   :nth-of-type(8){
+   table.programs thead th:nth-of-type(8){
       background-color: rgb(153,0,153);
    }
-}
 
 
 
