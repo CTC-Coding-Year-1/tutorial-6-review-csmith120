@@ -43,6 +43,11 @@ col.timeColumn{
    background-color: rgb(215,205,151);
 }
 
+col.wDayColumns{
+width: 11%;
+background-color: rgb(236,255,211);
+}
+
 /* Table Header Styles */
 
 
